@@ -1,0 +1,10 @@
+*.exe
+*.o
+*.obj
+*.out
+*.a
+*.so
+*.dll
+*.pdb
+/build/
+/.vs/
